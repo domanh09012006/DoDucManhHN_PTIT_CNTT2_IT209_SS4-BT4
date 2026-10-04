@@ -1,0 +1,13 @@
+# Security & Credentials
+credentials.txt
+*.key
+*.pem
+.env
+
+# OS Metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
